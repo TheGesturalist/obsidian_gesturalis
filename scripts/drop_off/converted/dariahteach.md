@@ -9,7 +9,7 @@ resource_type_original: "training platform"
 resource_type_10: "Community, Training & Curation"
 summary: "Open-source, multilingual, community-driven platform for teaching and training materials for the digital arts and humanities."
 tags:
-  - "dariahteach"
+  - "dariahTeach"
   - "dariah"
   - "digital-humanities"
   - "platform"
